@@ -1,0 +1,25 @@
+1,Marvel Must-Have Civil War,Varios,Steve McNiven Mark Millar,Panini comics,18.00
+2,Marvel Must-Have Born Again,Daredevil,Frank Miller David Mazzucchelli,Panini comics,20.00
+3,Marvel Must-Have Soldado de invierno,Capitan America,Ed Brubaker Steven Epting,Panini comics,15.00
+4,Marvel Must-Have El Juramento,Doctor Extraño,Brian K.Vaughn Marcos Martin,Panini comics,18.00
+5,Marvel Must-Have Dinastia de M,Patrulla-X,Brian Michael Bendis Olivier Coipel,Panini comics,18.00
+6,Marvel Must-Have Universo Spiderman,Spiderman,Dan Slott Olivier Coipel,Panini comics,15.00
+7,Marvel Must-Have El viejo Logan,Lobezno,Mark Millar Steve McNiven,Panini comics,15.00
+8,Marvel Must-Have Origen,Thanos,Jason Aaron Simone Bianchi,Panini comics,15.00
+9,Marvel Must-Have Fuera de lo normal,Ms Marvel,G.Willow Wilson Adrian Alphona,Panini comics,12.99
+10,Bleach: Bestseller 1,Bleach,Tite Kubo,Panini comics,1.95
+11,Bleach: Bestseller 2,Bleach,Tite Kubo,Panini comics,6.00
+12,Bleach: Bestseller 3,Bleach,Tite Kubo,Panini comics,6.00
+13,Bleach: Bestseller 4,Bleach,Tite Kubo,Panini comics,6.00
+14,Bleach: Bestseller 5,Bleach,Tite Kubo,Panini comics,6.00
+15,Bleach: Bestseller 6,Bleach,Tite Kubo,Panini comics,6.00
+16,Bleach: Bestseller 7,Bleach,Tite Kubo,Panini comics,6.00
+17,Bleach: Bestseller 8,Bleach,Tite Kubo,Panini comics,6.00
+18,Maximum Berserk 1,Berserk,Kentaro Miura,Panini comics,16.95
+19,Maximum Berserk 2,Berserk,Kentaro Miura,Panini comics,16.95
+20,Maximum Berserk 3,Berserk,Kentaro Miura,Panini comics,16.95
+21,Maximum Berserk 4,Berserk,Kentaro Miura,Panini comics,16.95
+22,Maximum Berserk 5,Berserk,Kentaro Miura,Panini comics,16.95
+23,Maximum Berserk 6,Berserk,Kentaro Miura,Panini comics,16.95
+24,Maximum Berserk 7,Berserk,Kentaro Miura,Panini comics,16.95
+25,Maximum Berserk 8,Berserk,Kentaro Miura,Panini comics,16.95

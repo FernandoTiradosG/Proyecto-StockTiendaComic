@@ -1,0 +1,11 @@
+ID,Nombre,Precio,Vendido
+1,Maximum Berserk 3,16.95,2023-05-18
+2,Bleach: Bestseller 2,6.0,2023-05-18
+3,Marvel Must-Have Soldado de invierno,15.0,2023-05-18
+4,Marvel Must-Have Soldado de invierno,15.0,2023-05-18
+5,Maximum Berserk 2,16.95,2023-05-18
+6,Bleach: Bestseller 4,6.0,2023-05-19
+7,Bleach: Bestseller 4,6.0,2023-05-19
+8,Bleach: Bestseller 4,6.0,2023-05-19
+9,Bleach: Bestseller 3,6.0,2023-05-19
+10,Bleach: Bestseller 3,6.0,2023-05-19
